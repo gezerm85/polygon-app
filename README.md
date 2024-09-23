@@ -1,4 +1,4 @@
-#### Polygon-App
+### Polygon-App
 
     Polygon-App, kullanıcıların harita üzerinde poligon çizebileceği,
     bu poligonların Firebase Firestore'a kaydedileceği ve online işlemler
