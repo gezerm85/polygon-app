@@ -1,0 +1,17 @@
+<div class="container">
+  <h1 class="title">map drawing polygon</h1>
+
+
+  <button (click)="logOut()" class="logoutBtn">Çıkış</button>
+</div>
+
+<google-map width="100%" height="70%" [center]="center" [zoom]="zoom" [options]="mapOptions" >
+</google-map>
+
+<div class="btnContainer">
+  <button class="btn" (click)="deleteSelectedPolygon()">
+    Seçilen Poligonu Sil
+  </button>
+
+  <button class="btn" (click)="completePolygon()">Tamamlandı</button>
+</div>

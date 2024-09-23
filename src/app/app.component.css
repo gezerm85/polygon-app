@@ -1,0 +1,14 @@
+.navContainer {
+    display: flex; /* Flex konteyneri oluşturuyor */
+    background-color: rgb(186, 177, 177);
+    padding: 28px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.nav {
+    color: #000;
+    text-decoration: none;
+}
