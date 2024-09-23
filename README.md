@@ -9,6 +9,10 @@
 
 ##  FireBase
 
+![Ekran Resmi 2024-09-23 18 32 38](https://github.com/user-attachments/assets/b6d21dff-4546-4340-961f-ef8a64f44558)
+![Ekran Resmi 2024-09-23 18 35 40](https://github.com/user-attachments/assets/c48df701-e06c-449d-8bd8-00de3543eeea)
+
+
 
 
 ## Gereksinimler
