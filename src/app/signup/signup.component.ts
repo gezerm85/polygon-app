@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormsModule } from '@angular/forms'; // Burayı ekleyin
+import { FormsModule } from '@angular/forms'; 
 import { Router } from '@angular/router';
 import { AuthService } from '../auth/auth.service';
 
@@ -19,7 +19,7 @@ export class SignupComponent {
   signup() {
     this.authService.signup(this.email, this.password)
       .then(() => {
-        this.router.navigate(['/map']); // Kayıt başarılıysa harita sayfasına yönlendir
+        this.router.navigate(['/map']); 
       })
       .catch(error => {
         console.error('Kayıt hatası:', error);

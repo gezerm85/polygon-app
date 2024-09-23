@@ -1,5 +1,5 @@
 .navContainer {
-    display: flex; /* Flex konteyneri oluşturuyor */
+    display: flex;
     background-color: rgb(186, 177, 177);
     padding: 28px;
     width: 100%;
