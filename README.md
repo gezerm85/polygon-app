@@ -34,12 +34,12 @@
 
 1.  Web Uygulaması İçin:
 
-    • ng serve
+        • ng serve
 
 2.  Mobil Uygulama için
 
-    • npm run build
+        • npm run build
+ 
+        • npx cap sync
 
-    • npx cap sync
-
-    • npx cap open android
+        • npx cap open android
