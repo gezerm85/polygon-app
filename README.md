@@ -5,6 +5,12 @@
     sırasında geçici olarak Firebase Realtime Database'de tutulacağı bir Angular uygulamasıdır.
     Uygulama Ionic Capacitor ile mobil uyumlu hale getirilmiştir.
 
+
+
+##  FireBase
+
+
+
 ## Gereksinimler
 
     •	Node.js
